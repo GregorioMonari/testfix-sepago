@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/arces-wot/SEPA-Go/sepa"
+	"github.com/GregorioMonari/testfix-sepago/sepa"
 	"io"
 	"strings"
 	"text/template"

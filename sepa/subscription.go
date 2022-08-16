@@ -3,7 +3,7 @@ package sepa
 import (
 	"github.com/gorilla/websocket"
 	"sync"
-	"github.com/arces-wot/SEPA-Go/sepa/sparql"
+	"github.com/GregorioMonari/testfix-sepago/sepa/sparql"
 )
 
 

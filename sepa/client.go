@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/arces-wot/SEPA-Go/sepa/sparql"
+	"github.com/GregorioMonari/testfix-sepago/sepa/sparql"
 	"github.com/gorilla/websocket"
 	"io"
 	"net/http"

@@ -1,9 +1,9 @@
 package pac
 
 import (
-	"github.com/arces-wot/SEPA-Go/sepa"
+	"github.com/GregorioMonari/testfix-sepago/sepa"
 	"fmt"
-	"github.com/arces-wot/SEPA-Go/sepa/sparql"
+	"github.com/GregorioMonari/testfix-sepago/sepa/sparql"
 	"sync"
 )
 

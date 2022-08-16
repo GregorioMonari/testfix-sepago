@@ -1,8 +1,8 @@
 package pac
 
 import (
-	"github.com/arces-wot/SEPA-Go/sepa"
-	"github.com/arces-wot/SEPA-Go/sepa/sparql"
+	"github.com/GregorioMonari/testfix-sepago/sepa"
+	"github.com/GregorioMonari/testfix-sepago/sepa/sparql"
 )
 
 type aggregator struct {

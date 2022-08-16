@@ -2,7 +2,7 @@ package pac
 
 import (
 	"testing"
-	"github.com/arces-wot/SEPA-Go/sepa"
+	"github.com/GregorioMonari/testfix-sepago/sepa"
 	"strings"
 )
 var jsap_sample = `{
